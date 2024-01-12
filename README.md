@@ -4,6 +4,8 @@
 * Deployed at:
 https://use-popcorn-one-umber.vercel.app/
 
+* To make the app work properly and receive request from teh API, the API key must be generated at omdbapi website and added to the environment variable REACT_APP_API_KEY.
+
 
 ## Screenshot
 
